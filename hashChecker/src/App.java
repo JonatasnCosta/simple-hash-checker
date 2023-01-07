@@ -11,7 +11,7 @@ public class App {
 
         String hash2 = leitor.next();
 
-        if (hash1.equals(hash2) && hash2.equals(hash1)) {
+        if (hash1.equals(hash2)) {
             System.out.println("O hash é igual");
         } else {
             System.out.println("O hash não confere");
