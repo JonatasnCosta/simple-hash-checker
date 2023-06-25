@@ -1,47 +1,22 @@
 # simple-hash-checker
-<!DOCTYPE html>
-<html>
-<head>
- <style>
- .dot-list {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    .dot-list li {
-      font-weight: normal;
-    }
-    .dot-list li span {
-      font-weight: bold;
-    }
-    .dot-list li:before {
-      content: "\2022"; /* Unicode character for a bullet point */
-      padding-right: 5px;
-    }
-    .content {
-      font-weight: normal;
-    }
-    .content strong {
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
-  <h1>Aplicativo de comparação de hash</h1>
-  <div>
-    Este é um aplicativo Java simples que permite aos usuários comparar dois valores de hash e determinar se eles são iguais ou não.
-  </div>
-  <div>
-    <h3>Pré-requisitos<h3>
-        <ul class="dot-list">
-        <li>Java Development Kit (JDK) installed versão openjdk 17.0.7 2023-04-18 LTS OpenJDK Runtime Environment Zulu17.42+21-CRaC-CA (build 17.0.7+7-LTS)
-        </li>
-        <li>IDE ou editor de texto para executar o código Java</li>
-        <div>
-            <h3>Começando</h3>
-            <p class="content">
-              <strong>Clonar o repositório:</strong>
-              git clone https://github.com/JonatasnCosta/simple-hash-checker.git
-            </p>
-        </div>
-</html>
+Aplicativo de comparação de hash
+
+Este é um aplicativo Java simples que permite aos usuários comparar dois valores de hash e determinar se eles são iguais ou não.
+
+Pré-requisitos
+Kit de desenvolvimento Java (JDK) instalado openjdk 17.0.7 2023-04-18 LTS OpenJDK Runtime Environment Zulu17.42+21-CRaC-CA (build 17.0.7+7-LTS)
+
+IDE ou editor de texto para executar o código Java 
+
+Começando
+1. Clone o repositório:
+git clone https://github.com/JonatasnCosta/simple-hash-checker.git
+
+2. Abra o projeto em seu IDE ou editor de texto preferido.
+
+3. Compile o código Java.
+
+4. Execute o aplicativo.
+![Alt Text](image_url)
+![GitHub Logo](https://twitter.com/Jonatas_nCosta/status/1672948191187156995/photo/1)
 
