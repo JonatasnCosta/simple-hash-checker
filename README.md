@@ -17,6 +17,5 @@ git clone https://github.com/JonatasnCosta/simple-hash-checker.git
 3. Compile o código Java.
 
 4. Execute o aplicativo.
-![Alt Text](image_url)
-![GitHub Logo](https://twitter.com/Jonatas_nCosta/status/1672948191187156995/photo/1)
+![code imagem](https://github.com/JonatasnCosta/simple-hash-checker/blob/main/imagens/hash%20verifica%C3%A7%C3%A3o.png)
 
