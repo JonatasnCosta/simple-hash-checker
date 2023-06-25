@@ -1,6 +1,6 @@
 # simple-hash-checker
-# Bitcoin
-Aplicativo de comparação de hash
+# Verificador de endereço bitcoin 
+Aplicativo de comparação de hash ou endereço bitcoin
 
 Este é um aplicativo Java simples que permite aos usuários comparar dois valores de hash e determinar se eles são iguais ou não.
 
