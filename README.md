@@ -1,6 +1,4 @@
 # simple-hash-checker
-<img src="https://github.com/JonatasnCosta/simple-hash-checker/blob/main/imagens/hashImagem.jpg" alt="Bitcoin" width="200" height="200">
-
 # Verificador de endereço bitcoin 
 <img src="https://github.com/JonatasnCosta/simple-hash-checker/blob/main/imagens/Bitcoin.svg.png" alt="Bitcoin" width="200" height="200">
 Aplicativo de comparação de hash ou endereço bitcoin
